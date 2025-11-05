@@ -18,7 +18,7 @@ Pola w pliku:
 4. `departure_time` – planowana data i godzina odjazdu (`yyyy-MM-dd'T'HH:mm`)  
 5. `arrival_time` – planowana data i godzina przyjazdu (`yyyy-MM-dd'T'HH:mm`)  
 6. `passengers` – liczba pasażerów w danym przejeździe  
-7. `ticket_price` – cena biletu w USD  
+7. `ticket_price` – cena biletu (dla każdego pasażera) w USD  
 8. `status` – status przejazdu (`On time`, `Delayed`, `Cancelled`)  
 
 ### `datasource4` – informacje o operatorach autobusowych (operators)
